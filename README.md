@@ -1,5 +1,9 @@
-# jobrendszer
+# Job UI
 ![image](https://user-images.githubusercontent.com/91018450/218851223-57ad611e-e4c3-4444-a5f0-9a3ea1a98967.png)
+
+
+
+
 Welcome to the 2023 Job Center project!
 This is a simple web application that allows users to find or offer jobs. The app provides a basic interface for listing job positions, as well as for users to register and apply for jobs.
 
