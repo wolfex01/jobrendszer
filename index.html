@@ -1,12 +1,31 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-     <meta charset="UTF-8">
-     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>Document</title>
-</head>
-<body>
-     
-</body>
+<html>
+  <head>
+    <title>2023 Job Center</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <main>
+      <div class="container">
+        <h1>2023 Job Center</h1>
+        <p>Apply for a job by filling out the form below:</p>
+        <form>
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name" required />
+          <label for="email">Email Address:</label>
+          <input type="email" id="email" name="email" required />
+          <label for="job">Job:</label>
+          <select id="job" name="job" required>
+            <option value="">Choose a job...</option>
+            <option value="Public Service Worker">Public Service Worker</option>
+            <option value="Police Officer">Police Officer</option>
+            <option value="Janitor">Janitor</option>
+            <option value="Programmer">Programmer</option>
+            <option value="Architect">Architect</option>
+          </select>
+          <input type="submit" value="Apply" />
+        </form>
+      </div>
+    </main>
+  </body>
 </html>
