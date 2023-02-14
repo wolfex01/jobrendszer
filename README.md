@@ -1,4 +1,4 @@
-# Job UI
+# Welcome to the 2023 Job Center project!
 ![image](https://user-images.githubusercontent.com/91018450/218851223-57ad611e-e4c3-4444-a5f0-9a3ea1a98967.png)
 
 
